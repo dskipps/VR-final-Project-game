@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b2e795dbf524e2b4b998337e81f73c2a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 169445
+  packageName: Animated Trees Package
+  packageVersion: 1.01
+  assetPath: Assets/Animated Trees Package/Models/Firs/fir_3.controller
+  uploadId: 595825

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f8f927da790fae9489676b16b6695493
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 169445
+  packageName: Animated Trees Package
+  packageVersion: 1.01
+  assetPath: Assets/Animated Trees Package/Models/Sycamore/sycamore.controller
+  uploadId: 595825

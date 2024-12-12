@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b4fa8dab62bfcab4bac2ba17e1030423
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 169445
+  packageName: Animated Trees Package
+  packageVersion: 1.01
+  assetPath: Assets/Animated Trees Package/Models/Birches/birch_1.controller
+  uploadId: 595825
