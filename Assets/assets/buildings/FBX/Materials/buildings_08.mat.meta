@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 023f622e46cbc3842a260a4261a07a8c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20617
+  packageName: Buildings & Ruins
+  packageVersion: 1.01
+  assetPath: Assets/buildings/FBX/Materials/buildings_08.mat
+  uploadId: 9786
