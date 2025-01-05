@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 70c9676d56da63e42a9711d71ff1754a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226719
+  packageName: Hostage Set
+  packageVersion: 1.0
+  assetPath: Assets/Hostage_Set/Art/AnimatorControllers/Idle_HandCuffed_Sit_Start.controller
+  uploadId: 513017

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac3a2ef4dd2684a40bfc35d87866fd3c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226719
+  packageName: Hostage Set
+  packageVersion: 1.0
+  assetPath: Assets/Hostage_Set/Art/AnimatorControllers/Pistol_Signaling_GetUp.controller
+  uploadId: 513017

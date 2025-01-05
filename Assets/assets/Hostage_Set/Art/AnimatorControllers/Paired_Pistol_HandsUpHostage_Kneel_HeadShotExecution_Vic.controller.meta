@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7fd819471aeb2fb409d1aea6202d83f1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226719
+  packageName: Hostage Set
+  packageVersion: 1.0
+  assetPath: Assets/Hostage_Set/Art/AnimatorControllers/Paired_Pistol_HandsUpHostage_Kneel_HeadShotExecution_Vic.controller
+  uploadId: 513017

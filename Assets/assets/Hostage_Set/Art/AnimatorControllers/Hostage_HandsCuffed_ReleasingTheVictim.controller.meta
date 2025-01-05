@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d125cc29ab4b75e45a2f583801d755a2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226719
+  packageName: Hostage Set
+  packageVersion: 1.0
+  assetPath: Assets/Hostage_Set/Art/AnimatorControllers/Hostage_HandsCuffed_ReleasingTheVictim.controller
+  uploadId: 513017

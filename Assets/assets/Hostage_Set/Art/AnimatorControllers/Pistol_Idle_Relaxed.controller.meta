@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 791ea9e7c41d03c4b986abd7f7fc404a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226719
+  packageName: Hostage Set
+  packageVersion: 1.0
+  assetPath: Assets/Hostage_Set/Art/AnimatorControllers/Pistol_Idle_Relaxed.controller
+  uploadId: 513017

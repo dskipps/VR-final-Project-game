@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7f4244b760a1acb489f3b940c26421c4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226719
+  packageName: Hostage Set
+  packageVersion: 1.0
+  assetPath: Assets/Hostage_Set/Art/AnimatorControllers/Hostage_HandsCuffed_TurnLeft_90.controller
+  uploadId: 513017

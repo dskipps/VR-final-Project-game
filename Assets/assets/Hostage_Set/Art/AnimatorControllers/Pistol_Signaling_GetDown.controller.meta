@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ee0d5052c062fea4c9a15954ea4d1899
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226719
+  packageName: Hostage Set
+  packageVersion: 1.0
+  assetPath: Assets/Hostage_Set/Art/AnimatorControllers/Pistol_Signaling_GetDown.controller
+  uploadId: 513017

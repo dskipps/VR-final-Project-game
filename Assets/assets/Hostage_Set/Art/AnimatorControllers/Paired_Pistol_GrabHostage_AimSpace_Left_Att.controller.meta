@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a35398aba2e08ef458fe0ab4f78b24fc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226719
+  packageName: Hostage Set
+  packageVersion: 1.0
+  assetPath: Assets/Hostage_Set/Art/AnimatorControllers/Paired_Pistol_GrabHostage_AimSpace_Left_Att.controller
+  uploadId: 513017

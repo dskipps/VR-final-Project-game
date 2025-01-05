@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 65e2068abe442774e809f9b377653b4e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226719
+  packageName: Hostage Set
+  packageVersion: 1.0
+  assetPath: Assets/Hostage_Set/Art/AnimatorControllers/Paired_Pistol_GrabHostageFromFront_Start_Vic.controller
+  uploadId: 513017

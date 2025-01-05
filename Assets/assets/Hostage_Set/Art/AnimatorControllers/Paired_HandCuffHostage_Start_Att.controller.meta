@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: de9dbfcd1e59091419eb03774bfaf0ba
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226719
+  packageName: Hostage Set
+  packageVersion: 1.0
+  assetPath: Assets/Hostage_Set/Art/AnimatorControllers/Paired_HandCuffHostage_Start_Att.controller
+  uploadId: 513017

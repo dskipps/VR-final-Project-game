@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 204b57372779f5040aaf955064a2f16a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226719
+  packageName: Hostage Set
+  packageVersion: 1.0
+  assetPath: Assets/Hostage_Set/Art/AnimatorControllers/Idle_HandCuffHostage_Kneel_Start.controller
+  uploadId: 513017
