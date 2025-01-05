@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 08114fba29eea5742acdca5eaa98313d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 265068
+  packageName: Mafia Man Collection
+  packageVersion: 1.0
+  assetPath: Assets/Mafia Man Collection/Ganster/Stand/Standard_Two_Sided .shader
+  uploadId: 612327
