@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 96233a256d4f8a44b84f92be7115f50b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 265068
+  packageName: Mafia Man Collection
+  packageVersion: 1.0
+  assetPath: Assets/Mafia Man Collection/Mafia_Boss/Stand/Standard_Two_Sided .shader
+  uploadId: 612327
