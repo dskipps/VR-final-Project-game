@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: afe944508cb925b40a5721c4a8af117e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226766
+  packageName: Virtual reality XR toolkit Sniper Rifle with scope - for Oculus Quest/Rift
+  packageVersion: 1.0
+  assetPath: Assets/TwoHandedWeaponXRToolkit2.0/Scripts/WeaponRecoil.cs
+  uploadId: 521645

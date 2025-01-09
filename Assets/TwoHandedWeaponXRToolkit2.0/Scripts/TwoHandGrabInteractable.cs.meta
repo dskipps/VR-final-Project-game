@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0704a4bd5f0a75143a385124c5d7541d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226766
+  packageName: Virtual reality XR toolkit Sniper Rifle with scope - for Oculus Quest/Rift
+  packageVersion: 1.0
+  assetPath: Assets/TwoHandedWeaponXRToolkit2.0/Scripts/TwoHandGrabInteractable.cs
+  uploadId: 521645

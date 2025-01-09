@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9d59a65be3bf8bf48b1883ffe1040d74
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226766
+  packageName: Virtual reality XR toolkit Sniper Rifle with scope - for Oculus Quest/Rift
+  packageVersion: 1.0
+  assetPath: Assets/TwoHandedWeaponXRToolkit2.0/SniperMesh&Scope/SniperPrefabs/SniperBulletCasing.prefab
+  uploadId: 521645
