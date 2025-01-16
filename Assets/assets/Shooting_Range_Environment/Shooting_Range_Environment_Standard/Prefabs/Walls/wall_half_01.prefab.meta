@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 422f262b3c2aa164a859474d5299aeb0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 180987
+  packageName: 'Shooting Range Environment: Standard'
+  packageVersion: 1.3
+  assetPath: Assets/Shooting_Range_Environment/Shooting_Range_Environment_Standard/Prefabs/Walls/wall_half_01.prefab
+  uploadId: 665326

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4fc2538a183ef894ca415dd850ccf369
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 180987
+  packageName: 'Shooting Range Environment: Standard'
+  packageVersion: 1.3
+  assetPath: Assets/Shooting_Range_Environment/Shooting_Range_Environment_Standard/Prefabs/rifle_01.prefab
+  uploadId: 665326
