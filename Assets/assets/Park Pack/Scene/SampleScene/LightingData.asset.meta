@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e5606603912e38e438f974873e88be38
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197622
+  packageName: Park pack
+  packageVersion: 1.0
+  assetPath: Assets/Park Pack/Scene/SampleScene/LightingData.asset
+  uploadId: 447055

@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 8c45759bee878bc4ab65eca25fb44eca
+timeCreated: 1524511681
+licenseType: Store
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197622
+  packageName: Park pack
+  packageVersion: 1.0
+  assetPath: Assets/Park Pack/Sounds/Environment Sounds/SuburbanHouseStereo.wav
+  uploadId: 447055
