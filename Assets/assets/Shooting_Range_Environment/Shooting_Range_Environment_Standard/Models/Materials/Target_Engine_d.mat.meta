@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 130f97e62fa16374892b0bd1277776af
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 180987
+  packageName: 'Shooting Range Environment: Standard'
+  packageVersion: 1.3
+  assetPath: Assets/Shooting_Range_Environment/Shooting_Range_Environment_Standard/Models/Materials/Target_Engine_d.mat
+  uploadId: 665326

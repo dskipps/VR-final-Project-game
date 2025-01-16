@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 45c72f1ac17e17e489ff12874c671f40
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 180987
+  packageName: 'Shooting Range Environment: Standard'
+  packageVersion: 1.3
+  assetPath: Assets/Shooting_Range_Environment/Shooting_Range_Environment_Standard/Models/Materials/Walls_01_d.mat
+  uploadId: 665326
