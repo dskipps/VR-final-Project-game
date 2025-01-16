@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 90cb77a45bde72e4cb4c53d00d2dea5b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292620
+  packageName: Stylized Terrain & Grass Textures
+  packageVersion: 1.0
+  assetPath: Assets/Terrain/Materials/Grass Med.mat
+  uploadId: 687674

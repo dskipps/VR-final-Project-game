@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8df36dadf4cb184f9f7cfb0780b5bed
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292620
+  packageName: Stylized Terrain & Grass Textures
+  packageVersion: 1.0
+  assetPath: Assets/Terrain/Materials/Grass Low.mat
+  uploadId: 687674

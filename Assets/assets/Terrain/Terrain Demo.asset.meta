@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fd79b2243150f2142aa664a2413f5b1c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292620
+  packageName: Stylized Terrain & Grass Textures
+  packageVersion: 1.0
+  assetPath: Assets/Terrain/Terrain Demo.asset
+  uploadId: 687674
